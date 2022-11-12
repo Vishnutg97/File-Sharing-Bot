@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FCodeXBotz%2FFile-Sharing-Bot&template=https%3A%2F%2Fgithub.com%2FCodeXBotz%2FFile-Sharing-Bot",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
